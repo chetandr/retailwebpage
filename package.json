@@ -1,0 +1,11 @@
+{
+  "name": "retailwebpage",
+  "version": "1.0.0",
+  "description": "Application ot create webpages on the fly. Fill a form and ge a page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
